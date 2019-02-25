@@ -3,6 +3,10 @@ PDM Import
 
 [HEC-DSSVue][HEC1] plugin for loading [PDM rainfall-runoff model][CEH] results.
 
+:warning: Inexperienced developer at work warning: you may see some pretty bad
+code in this repo. I was still at the hack-this-together-how-does-java-work 
+stage!
+
 Installation
 ------------
 
